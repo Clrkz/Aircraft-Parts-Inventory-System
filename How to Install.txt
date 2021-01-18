@@ -1,0 +1,16 @@
+start apache,mysql service in xammpp
+open browser and goto "http://localhost/phpmyadmin/server_sql.php"
+type "drop database apms"
+click New sa gilid
+type to Database name "apms" click Create
+click created apms database 
+click import sa taas
+click choose file and select apms.sql
+click Go sa baba
+Done..
+
+admin acc:
+admin:admin123
+
+staff acc.:
+staff:staff
